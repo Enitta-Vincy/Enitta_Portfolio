@@ -201,7 +201,6 @@ export default function ExperiencePage() {
                               {edu.period}
                             </Badge>
                           </div>
-                          <p className="text-muted-foreground">{edu.description}</p>
                         </div>
                       </div>
                     </Card>
